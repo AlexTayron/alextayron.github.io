@@ -363,19 +363,19 @@ section .title::after{
     background: #6ff4a7;
 }
 .skills-content .right .java::before{
-    width: 90%;
+    width: 30%;
 }
 .skills-content .right .dart::before{
-    width: 60%;
+    width: 25%;
 }
 .skills-content .right .flutter::before{
-    width: 80%;
+    width: 25%;
 }
 .skills-content .right .js::before{
-    width: 50%;
+    width: 25%;
 }
 .skills-content .right .react::before{
-    width: 70%;
+    width: 10%;
 }
 
 /* teams section styling */
