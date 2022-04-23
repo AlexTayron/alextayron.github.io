@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Área de Trabalho\\Aprendendo\\newPortfolio\\css"
+		},
+		{
+			"path": "..\\..\\..\\Área de Trabalho\\Aprendendo\\newPortfolio\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "alextayron.github.io"
+	}
+}
