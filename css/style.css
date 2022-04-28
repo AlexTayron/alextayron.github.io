@@ -416,6 +416,9 @@ section .title::after{
     border: 5px solid #6ff4a7;
     transition: all 0.3s ease;
 }
+#hiring{
+    color: #fff;
+}
 .project .carousel .card:hover img{
     border-color: #fff;
 }
